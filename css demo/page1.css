@@ -1,0 +1,43 @@
+div{
+    background: purple;
+    color: white;
+}
+
+#quote {
+
+    font-family: "Verdana","gill sanis" ;
+    color: #74e800;
+
+}
+
+.colour {
+    color: white;
+    background: steelblue;
+}
+
+span#author {
+
+    text-transform: uppercase;
+}
+
+#skills ol li {
+
+    color:  purple;
+    background: white;
+}
+
+h3 + p {
+
+    background: rgb(253, 1, 1);
+    color: white;
+}
+
+p[class] {
+    background: rgb(248, 232, 3);
+    color: white
+}
+
+p[id] {
+    background: rgb(225, 250, 2);
+    color:white
+}

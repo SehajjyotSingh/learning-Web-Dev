@@ -1,0 +1,19 @@
+div{
+
+    border: 10px solid rgb(255, 238, 0);
+    background: rgb(243, 4, 4);
+    width: 150px;
+    height: 150px;
+
+}
+
+div:hover{
+    transform: rotate(60deg);
+}
+
+
+a{ 
+    display: block;
+    width:100px;
+    height:100px;
+}
